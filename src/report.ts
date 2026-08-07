@@ -51,7 +51,7 @@ export function render(input: ReportInput): string {
     lines.push("", `## ${tier} (${rows.length})`);
     for (const { candidate, verdict } of rows) {
       lines.push("");
-      lines.push(`### ${candidate.company} — ${candidate.domain}`);
+      lines.push(`### ${candidate.company} (${candidate.domain})`);
       lines.push("");
       lines.push(`- ${verdict.what_they_do}`);
       lines.push(
@@ -70,7 +70,7 @@ export function render(input: ReportInput): string {
     lines.push("");
     for (const account of known) {
       lines.push(
-        `- ${account.candidate.company} (${account.candidate.domain}) — HubSpot ${account.hubspotId}, ` +
+        `- ${account.candidate.company} (${account.candidate.domain}): HubSpot ${account.hubspotId}, ` +
           `filed as "${account.hubspotName}"`,
       );
     }
