@@ -1,0 +1,154 @@
+{
+  "extractions": [
+    {
+      "row": 0,
+      "is_company": true,
+      "company": "Northwind Logistics",
+      "domain": "northwindlogistics.com",
+      "role": "Senior Platform Engineer (Kubernetes)",
+      "location": "Chicago, IL · Hybrid",
+      "evidence": "Cloud spend has grown faster than shipment volume for six straight quarters and nobody can say which service is responsible; they run their own Kubernetes on EKS with about 140 engineers.",
+      "source_url": "https://jobs.example-board.com/p/8814"
+    },
+    {
+      "row": 1,
+      "is_company": true,
+      "company": "Northwind Logistics",
+      "domain": "northwindlogistics.com",
+      "role": "Site Reliability Engineer",
+      "location": "Chicago, IL · Hybrid",
+      "evidence": "On-call is painful: they page on symptoms rather than causes, and they want experience with self-hosted Prometheus and Grafana at scale.",
+      "source_url": "https://jobs.example-board.com/p/8851"
+    },
+    {
+      "row": 2,
+      "is_company": true,
+      "company": "Halcyon Health",
+      "domain": "halcyonhealth.io",
+      "role": "Platform Engineer",
+      "location": "Remote (US)",
+      "evidence": "Eighteen months into migrating off a managed platform onto their own Kubernetes, and the observability story has not kept up. Roughly 90 engineers in a HIPAA environment.",
+      "source_url": "https://jobs.example-board.com/p/8790"
+    },
+    {
+      "row": 3,
+      "is_company": false,
+      "company": "",
+      "domain": "",
+      "role": "",
+      "location": "",
+      "evidence": "",
+      "source_url": "https://ads.example-board.com/click?c=99312"
+    },
+    {
+      "row": 4,
+      "is_company": true,
+      "company": "Beacon Ledger",
+      "domain": "beaconledger.com",
+      "role": "Site Reliability Engineer, Payments Infrastructure",
+      "location": "New York, NY",
+      "evidence": "Series C payments infrastructure, around 200 engineers; the first project is migrating off self-hosted Prometheus, which has become a second full-time job for two people.",
+      "source_url": "https://jobs.example-board.com/p/8833"
+    },
+    {
+      "row": 5,
+      "is_company": true,
+      "company": "Kestrel Talent Partners",
+      "domain": "kestreltalent.com",
+      "role": "Platform Engineer — Kubernetes / Terraform (Contract to hire)",
+      "location": "Austin, TX",
+      "evidence": "Hiring on behalf of a client: Kestrel Talent Partners places senior infrastructure engineers across the US and discloses the client name after a first call.",
+      "source_url": "https://jobs.example-board.com/p/8862"
+    },
+    {
+      "row": 6,
+      "is_company": true,
+      "company": "Fernbrook Studios",
+      "domain": "fernbrookstudios.com",
+      "role": "Full Stack Engineer (Founding)",
+      "location": "Remote",
+      "evidence": "Twelve people building collaborative tools for illustrators, hiring their fifth engineer to touch everything; they deploy to Render and want to keep it that way as long as possible.",
+      "source_url": "https://jobs.example-board.com/p/8801"
+    },
+    {
+      "row": 7,
+      "is_company": true,
+      "company": "Northwind Logistics",
+      "domain": "northwindlogistics.com",
+      "role": "Infrastructure Engineer",
+      "location": "Chicago, IL",
+      "evidence": "Third infrastructure role open this quarter; they are standing up a platform team from scratch, and cost attribution across their EKS clusters has an executive asking about it monthly.",
+      "source_url": "https://jobs.example-board.com/p/8878"
+    },
+    {
+      "row": 8,
+      "is_company": true,
+      "company": "Cinder Metrics",
+      "domain": "cindermetrics.com",
+      "role": "Senior Site Reliability Engineer",
+      "location": "Remote (US, EU)",
+      "evidence": "Cinder Metrics is a high-cardinality metrics and tracing platform ingesting 4 trillion data points a day; the role runs the infrastructure their customers' observability depends on.",
+      "source_url": "https://jobs.example-board.com/p/8771"
+    },
+    {
+      "row": 9,
+      "is_company": true,
+      "company": "Orinoco Payments",
+      "domain": "orinocopay.com",
+      "role": "Platform Engineer, Core",
+      "location": "Remote (US)",
+      "evidence": "Card acquiring for marketplaces, about 120 engineers; the platform team owns an observability stack that is currently three tools that do not agree with each other.",
+      "source_url": "https://jobs.example-board.com/p/8784"
+    },
+    {
+      "row": 10,
+      "is_company": true,
+      "company": "Halcyon Health",
+      "domain": "halcyonhealth.io",
+      "role": "DevOps Engineer",
+      "location": "Remote (US)",
+      "evidence": "Supporting the platform team through their Kubernetes migration; second infrastructure opening this month.",
+      "source_url": "https://jobs.example-board.com/p/8890"
+    },
+    {
+      "row": 11,
+      "is_company": true,
+      "company": "Confidential",
+      "domain": "",
+      "role": "Staff Platform Engineer",
+      "location": "Boston, MA",
+      "evidence": "A well-funded Series B in the logistics space, employer name withheld at the company's request.",
+      "source_url": "https://jobs.example-board.com/p/8845"
+    },
+    {
+      "row": 12,
+      "is_company": true,
+      "company": "Vantage Grocers",
+      "domain": "vantagegrocers.com",
+      "role": "Infrastructure Engineer",
+      "location": "Denver, CO",
+      "evidence": "",
+      "source_url": "https://jobs.example-board.com/p/8871"
+    },
+    {
+      "row": 13,
+      "is_company": true,
+      "company": "Sable Freight",
+      "domain": "sablefreight.com",
+      "role": "Site Reliability Engineer II",
+      "location": "Atlanta, GA · Hybrid",
+      "evidence": "A digital freight brokerage with around 70 engineers; the new hire joins a platform team of four and owns the alerting rewrite they have been putting off for a year.",
+      "source_url": "https://jobs.example-board.com/p/8818"
+    },
+    {
+      "row": 14,
+      "is_company": true,
+      "company": "Kestrel Talent Partners",
+      "domain": "kestreltalent.com",
+      "role": "SRE (Remote)",
+      "location": "Remote (US)",
+      "evidence": "Recruiting an SRE on behalf of a healthcare client, six month contract with extension likely.",
+      "source_url": "https://jobs.example-board.com/p/8901"
+    }
+  ]
+}

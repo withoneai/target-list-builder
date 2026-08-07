@@ -1,0 +1,27 @@
+{
+  "name": "target-list-builder",
+  "version": "1.0.0",
+  "description": "Build the quarter's target list off a live source instead of buying a stale one: Apify scrapes the source, Claude reads the messy rows and qualifies each company against an ICP you wrote in plain English, HubSpot removes everyone you already know, and the list lands in Google Sheets. Built on One. Read-only against HubSpot unless you opt in.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.0.4",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,53 @@
+{
+  "verdicts": [
+    {
+      "domain": "northwindlogistics.com",
+      "tier": "target",
+      "what_they_do": "Logistics: they move around 40,000 shipments a day across North America.",
+      "why": "Three open infrastructure roles this quarter and they say outright they are standing up a platform team from scratch, on their own EKS at about 140 engineers. Cloud spend outgrowing volume for six quarters with an executive asking monthly is the cost conversation we win.",
+      "hook": "You have three infrastructure roles open and an exec asking monthly which service is driving the EKS bill. That attribution question is usually a tooling problem before it is a headcount problem."
+    },
+    {
+      "domain": "halcyonhealth.io",
+      "tier": "target",
+      "what_they_do": "Scheduling and intake software for outpatient clinics, in a HIPAA environment.",
+      "why": "Two infrastructure openings in one month, and the posting states plainly that they are eighteen months into a Kubernetes migration where the observability story has not kept up. About 90 engineers, which is inside the range.",
+      "hook": "Eighteen months into a migration where observability has not kept up is the exact point where teams discover their HIPAA constraints rule out half the market."
+    },
+    {
+      "domain": "kestreltalent.com",
+      "tier": "skip",
+      "what_they_do": "A staffing firm that places senior infrastructure engineers.",
+      "why": "The skip rules name staffing agencies and recruiters directly: both postings are on behalf of an undisclosed client, so the buying signal belongs to a company we cannot see from here. Nothing to work until the client is named.",
+      "hook": ""
+    },
+    {
+      "domain": "beaconledger.com",
+      "tier": "target",
+      "what_they_do": "Series C payments infrastructure, around 200 engineers.",
+      "why": "The posting says the first thing the hire owns is migrating off self-hosted Prometheus, which has become a second full-time job for two people. That is an active, funded, already-admitted problem, and 200 engineers on latency SLOs sits at the top of our range.",
+      "hook": "Two people spending half their time keeping self-hosted Prometheus alive is a cost you can put a number on before you ever price a replacement."
+    },
+    {
+      "domain": "cindermetrics.com",
+      "tier": "skip",
+      "what_they_do": "A high-cardinality metrics and tracing platform ingesting 4 trillion data points a day.",
+      "why": "Their whole product is observability, which the skip rules rule out as a competitor rather than a buyer. Strong infrastructure signal, wrong side of the table.",
+      "hook": ""
+    },
+    {
+      "domain": "fernbrookstudios.com",
+      "tier": "skip",
+      "what_they_do": "Collaborative tools for illustrators, twelve people total.",
+      "why": "One founding full-stack role at a company with five engineers and no other infra hiring, which the signal rules call out as the absence of a platform team rather than a signal. They are on Render and say they intend to stay there.",
+      "hook": ""
+    },
+    {
+      "domain": "vantagegrocers.com",
+      "tier": "maybe",
+      "what_they_do": "Not stated in the source.",
+      "why": "The title is an infrastructure role, which is the signal, but the posting is entirely benefits copy: no engineering headcount, no stack, nothing about what they run. Worth thirty seconds on their site before anyone spends a week on it.",
+      "hook": ""
+    }
+  ]
+}

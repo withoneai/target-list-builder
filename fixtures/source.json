@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Senior Platform Engineer (Kubernetes)",
+    "company": "Northwind Logistics, Inc.",
+    "companyLink": "https://www.northwindlogistics.com/careers",
+    "location": "Chicago, IL · Hybrid",
+    "postedAt": "2026-07-28",
+    "descriptionText": "Northwind moves 40,000 shipments a day across North America. Our cloud spend has grown faster than our volume for six straight quarters and nobody can currently say which service is responsible. You would own that question. We run our own Kubernetes on EKS, about 140 engineers across five product groups.",
+    "url": "https://jobs.example-board.com/p/8814"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Northwind Logistics",
+    "companyLink": "https://boards.greenhouse.io/northwindlogistics/jobs/551201",
+    "location": "Chicago, IL · Hybrid",
+    "postedAt": "2026-07-30",
+    "descriptionText": "Second SRE hire on a team of three. On-call is currently painful: we page on symptoms rather than causes and the runbooks are out of date. Experience with self-hosted Prometheus and Grafana at scale is what we are actually after.",
+    "url": "https://jobs.example-board.com/p/8851"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Halcyon Health",
+    "companyLink": "https://halcyonhealth.io",
+    "location": "Remote (US)",
+    "postedAt": "2026-07-25",
+    "descriptionText": "Halcyon Health builds scheduling and intake software for outpatient clinics. We are eighteen months into migrating off a managed platform onto our own Kubernetes and the observability story has not kept up. Roughly 90 engineers. HIPAA environment, so vendor choices are not casual.",
+    "url": "https://jobs.example-board.com/p/8790"
+  },
+  {
+    "title": "Sponsored: Hire senior infrastructure talent in 14 days",
+    "company": "",
+    "companyLink": "https://ads.example-board.com/click?c=99312",
+    "location": "",
+    "postedAt": "2026-08-01",
+    "descriptionText": "Reach 40,000 vetted platform and SRE candidates. Post your first role free. Promoted listing.",
+    "url": "https://ads.example-board.com/click?c=99312"
+  },
+  {
+    "title": "Site Reliability Engineer, Payments Infrastructure",
+    "company": "Beacon Ledger",
+    "companyLink": "https://www.beaconledger.com",
+    "location": "New York, NY",
+    "postedAt": "2026-07-29",
+    "descriptionText": "We are a Series C payments infrastructure company, around 200 engineers. The first thing you would own is our migration off self-hosted Prometheus, which has become a second full-time job for two people. Latency SLOs on the ledger path are the constraint everything else bends around.",
+    "url": "https://jobs.example-board.com/p/8833"
+  },
+  {
+    "title": "Platform Engineer — Kubernetes / Terraform (Contract to hire)",
+    "company": "Kestrel Talent Partners",
+    "companyLink": "https://kestreltalent.com",
+    "location": "Austin, TX",
+    "postedAt": "2026-07-31",
+    "descriptionText": "Our client, a growing fintech, is looking for a platform engineer. Kestrel Talent Partners places senior infrastructure engineers across the US. Client name disclosed after first call. Rate DOE.",
+    "url": "https://jobs.example-board.com/p/8862"
+  },
+  {
+    "title": "Full Stack Engineer (Founding)",
+    "company": "Fernbrook Studios",
+    "companyLink": "https://fernbrookstudios.com",
+    "location": "Remote",
+    "postedAt": "2026-07-27",
+    "descriptionText": "We are twelve people building collaborative tools for illustrators. You would be our fifth engineer and would touch everything: React, Rails, a bit of everything else. We deploy to Render and would like to keep it that way for as long as possible.",
+    "url": "https://jobs.example-board.com/p/8801"
+  },
+  {
+    "title": "Infrastructure Engineer",
+    "company": "Northwind Logistics, Inc.",
+    "companyLink": "https://www.northwindlogistics.com/careers/infra",
+    "location": "Chicago, IL",
+    "postedAt": "2026-08-02",
+    "descriptionText": "Third infrastructure role open this quarter. We are standing up a platform team from scratch. Cost attribution across our EKS clusters is the first project and it has an executive asking about it monthly.",
+    "url": "https://jobs.example-board.com/p/8878"
+  },
+  {
+    "title": "Senior Site Reliability Engineer",
+    "company": "Cinder Metrics",
+    "companyLink": "https://cindermetrics.com",
+    "location": "Remote (US, EU)",
+    "postedAt": "2026-07-24",
+    "descriptionText": "Cinder Metrics is a high-cardinality metrics and tracing platform. You would be running the infrastructure that our customers' observability runs on. We ingest 4 trillion data points a day.",
+    "url": "https://jobs.example-board.com/p/8771"
+  },
+  {
+    "title": "Platform Engineer, Core",
+    "company": "Orinoco Payments",
+    "companyLink": "https://www.orinocopay.com/jobs",
+    "location": "Remote (US)",
+    "postedAt": "2026-07-26",
+    "descriptionText": "Orinoco Payments handles card acquiring for marketplaces. About 120 engineers. The platform team owns the Kubernetes fleet, CI, and the observability stack, which is currently three tools that do not agree with each other.",
+    "url": "https://jobs.example-board.com/p/8784"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Halcyon Health",
+    "companyLink": "https://jobs.lever.co/halcyonhealth/2f19",
+    "location": "Remote (US)",
+    "postedAt": "2026-08-03",
+    "descriptionText": "Supporting the platform team through our Kubernetes migration. Terraform, ArgoCD, and a great deal of patience. Second infrastructure opening this month.",
+    "url": "https://jobs.example-board.com/p/8890"
+  },
+  {
+    "title": "Staff Platform Engineer",
+    "company": "Confidential",
+    "companyLink": "",
+    "location": "Boston, MA",
+    "postedAt": "2026-07-30",
+    "descriptionText": "A well-funded Series B in the logistics space is hiring a staff platform engineer. Employer name withheld at the company's request. Apply through the board and we will make an introduction.",
+    "url": "https://jobs.example-board.com/p/8845"
+  },
+  {
+    "title": "Infrastructure Engineer",
+    "company": "Vantage Grocers",
+    "companyLink": "https://vantagegrocers.com",
+    "location": "Denver, CO",
+    "postedAt": "2026-08-01",
+    "descriptionText": "Join a growing team. Competitive salary, great benefits, flexible PTO, and an inclusive culture where your voice matters. We are looking for someone passionate about technology who thrives in a fast-paced environment.",
+    "url": "https://jobs.example-board.com/p/8871"
+  },
+  {
+    "title": "Site Reliability Engineer II",
+    "company": "Sable Freight",
+    "companyLink": "https://www.sablefreight.com/careers",
+    "location": "Atlanta, GA · Hybrid",
+    "postedAt": "2026-07-28",
+    "descriptionText": "Sable Freight runs a digital freight brokerage. Around 70 engineers. You would join a platform team of four and own the alerting rewrite we have been putting off for a year.",
+    "url": "https://jobs.example-board.com/p/8818"
+  },
+  {
+    "title": "SRE (Remote) — Kestrel Talent Partners",
+    "company": "",
+    "companyLink": "https://kestreltalent.com/roles/sre-remote",
+    "location": "Remote (US)",
+    "postedAt": "2026-08-04",
+    "descriptionText": "Kestrel Talent Partners is recruiting an SRE on behalf of a healthcare client. Six month contract with extension likely. Submit your resume for consideration.",
+    "url": "https://jobs.example-board.com/p/8901"
+  }
+]
